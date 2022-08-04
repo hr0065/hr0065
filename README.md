@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Himanshu Raj
-- 👀 I’m interested in Software Engineering and Data Science Roles
+- 👀 I’m interested in Software Engineering Roles
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 How to reach me - hsr21sinha@gmail.com
 

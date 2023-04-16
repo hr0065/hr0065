@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Computer Science Engineering student from India</h3>
 
 <img align="right" alt="coding" width="500" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
